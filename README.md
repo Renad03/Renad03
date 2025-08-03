@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Renad</h1>
 <h3 align="center">Computer Science Student | Passionate about AI & Full-Stack Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=renad03&label=Profile%20views&color=0e75b6&style=flat" alt="renad03" /> </p>
-
 - 📫 How to reach me **renad03emara@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
